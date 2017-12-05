@@ -1,0 +1,48 @@
+h1
+{
+	background-color: #FCF8DF;
+	border width: 10px;
+		border-radius: 25px;
+    border: 2px dotted;
+}
+
+.heading
+{
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	border-style: groove;
+	background-color: #CCE1EF;
+	border-radius: 25px;
+    border: 1px solid;
+}
+
+
+.textheading
+{
+  font-family: "Brush Script Std", Brush Script MT, cursive;
+  font-weight: 900;
+}
+
+.col-md-4
+{
+	background-color: #FCF8DF;
+}
+
+
+#creater
+{
+	width: 150px;
+	height: 100px;
+	margin-bottom: 300px;
+}
+
+.gallery
+{
+	width: 330px;
+	height: 300px;
+	padding: 3px;
+}
+
+.text
+{
+	color: #D5C2D4;
+}
